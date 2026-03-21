@@ -1,0 +1,37 @@
+# Java Full Course For Beginners - Start From Scratch!
+
+Welcome to **Java Full Course For Beginners**, a course designed to take you from a beginner to a proficient Java developer. This course is packed with **free content** that gives you hands-on experience in core Java concepts.
+
+---
+
+## Course Overview
+- **Format**: Each lesson combines theoretical knowledge with practical coding exercises. The course ends with a final project for full learning engagement.
+
+## Course Structure
+Each lesson consists of:
+- **Video Lectures**: In-depth explanations of each concept.
+- **Coding Exercises**: Hands-on practice to reinforce learning.
+
+---
+
+## [Course Content](Content)
+Here you will learn the basics of Java, including how to set up your development environment, understand basic syntax, work with data types, and practice essential programming concepts such as loops, arrays, and methods.
+
+### Lessons:
+
+1. **[Environment Setup](Content/Lesson%201%20-%20Environment%20Setup)**
+
+---
+
+## Learning Goals
+
+By the end of **Java Full Course For Beginners**, you will:
+- Be able to set up and work in a complete Java development environment.
+- Understand fundamental Java syntax and structures.
+- Master core object-oriented programming concepts.
+- Work with Java collections (Lists, Sets, Maps) to manage data efficiently.
+- Handle exceptions gracefully and design custom error-handling solutions.
+- Be confident in building and executing real-world Java applications.
+
+---
+
