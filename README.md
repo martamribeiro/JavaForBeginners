@@ -2,6 +2,10 @@
 
 Welcome to **Java Full Course For Beginners**, a course designed to take you from a beginner to a proficient Java developer. This course is packed with **free content** that gives you hands-on experience in core Java concepts.
 
+**Disclaimer: The first 10 lessons of this course were recorded in 2024, but the content is fully up-to-date and relevant.**
+
+### Course Playlist: [Java Full Course For Beginners - Start From Scratch!](https://www.youtube.com/playlist?list=PL1695ESaogg8ryFjRAkWowDucI8pz8rFG)
+
 ---
 
 ## Course Overview
@@ -19,7 +23,7 @@ Here you will learn the basics of Java, including how to set up your development
 
 ### Lessons:
 
-1. **[Environment Setup](Content/Lesson%201%20-%20Environment%20Setup)**
+1. **[Lesson 1 - Environment Setup](Content/Lesson%201%20-%20Environment%20Setup)**
 
 ---
 
