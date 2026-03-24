@@ -24,7 +24,7 @@ Here you will learn the basics of Java, including how to set up your development
 ### Lessons:
 
 1. **[Lesson 1 - Environment Setup](Content/Lesson%201%20-%20Environment%20Setup)**
-2. **[Lesson 2: Introduction to Java](Content/Lesson%202%20-%20Introduction%20to%20Java)**
+2. **[Lesson 2 - Introduction to Java](Content/Lesson%202%20-%20Introduction%20to%20Java)**
 
 ---
 
